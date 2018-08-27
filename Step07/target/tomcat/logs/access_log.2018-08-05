@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:15:48:08 +0530] "GET /spring-mvc/login HTTP/1.1" 200 286 http-bio-8080-exec-2 1530
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:15:48:09 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 6
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:16:00:30 +0530] "GET /spring-mvc/login HTTP/1.1" 200 294 http-bio-8080-exec-1 4698
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:16:00:34 +0530] "POST /spring-mvc/login HTTP/1.1" 200 294 http-bio-8080-exec-6 111
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:16:00:36 +0530] "POST /spring-mvc/login HTTP/1.1" 200 294 http-bio-8080-exec-7 23
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:16:00:43 +0530] "POST /spring-mvc/login HTTP/1.1" 200 294 http-bio-8080-exec-9 24
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:16:01:53 +0530] "POST /spring-mvc/login HTTP/1.1" 200 294 http-bio-8080-exec-1 20
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:16:11:34 +0530] "POST /spring-mvc/login HTTP/1.1" 200 76 http-bio-8080-exec-2 5352
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:16:13:46 +0530] "POST /spring-mvc/login HTTP/1.1" 200 76 http-bio-8080-exec-4 7851
+0:0:0:0:0:0:0:1 - - [05/Aug/2018:16:17:19 +0530] "POST /spring-mvc/login HTTP/1.1" 200 83 http-bio-8080-exec-7 280
